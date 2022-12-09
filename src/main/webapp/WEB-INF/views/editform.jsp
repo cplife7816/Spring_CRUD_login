@@ -23,7 +23,7 @@
 <tr><td>Content:</td><td><form:textarea cols="50" rows="5" path="content" /></td></tr>
  <tr><td>Category:</td><td><form:input path="category" /></td></tr>
 </table>
- <input type="submit" value="Edit Post"/>
+ <input type="submit" value="제출하기"/>
  <input type="button" value="Cancel" onclick="history.back()"/>
 </form:form>
 
